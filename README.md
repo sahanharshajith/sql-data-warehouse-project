@@ -10,7 +10,6 @@ This project demonstrating a modern SQL-based data warehouse pipeline, following
 - [Repository Layout](#repository-layout)
 - [Getting Started](#getting-started)
 - [Data Sources](#data-sources)
-- [Contributing](#contributing)
 
 ---
 
@@ -94,9 +93,3 @@ scripts/
 	`CUST_AZ12.csv`, `LOC_A101.csv`, `PX_CAT_G1V2.csv`
 
 These are used as input for ETL scripts in the Bronze layer.
-
----
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for improvements, bug fixes, or additional documentation.
